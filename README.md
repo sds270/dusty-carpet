@@ -1,8 +1,9 @@
 # dusty-carpet
-Beat on me like a dusty carpet
+Beat on this repo like it's a dusty carpet
 
 ![dusty carpet](https://c.tenor.com/Sqo7Rn1yifAAAAAM/dusty-rug.gif)
 
+## Flip the switch
 
 |Given name |Last name            | flip_switch_1| flip_switch_2|
 |:----------|:--------------------|-------------:|-------------:|
@@ -37,7 +38,7 @@ Beat on me like a dusty carpet
 |Grace      |Rade                 |             0|             0|
 |Michel     |Ruiz-Fuentes         |             0|             0|
 |Esa        |Schenck              |             0|             0|
-|Christina  |Sherpa               |             0|             0|
+|Christina  |Sherpa               |             1|             0|
 |Julia      |Ting                 |             0|             0|
 |My My      |Tran                 |             0|             0|
 |Thu        |Tran                 |             0|             0|
