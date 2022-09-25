@@ -1,6 +1,9 @@
 # dusty-carpet
 Beat on me like a dusty carpet
 
+![dusty carpet](https://c.tenor.com/Sqo7Rn1yifAAAAAM/dusty-rug.gif)
+
+
 |Given name |Last name            | flip_switch_1| flip_switch_2|
 |:----------|:--------------------|-------------:|-------------:|
 |Albert     |Kim                  |             0|             0|
