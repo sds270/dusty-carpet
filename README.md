@@ -7,7 +7,7 @@ Beat on this repo like it's a dusty carpet
 
 |Given name |Last name            | flip_switch_1| flip_switch_2|
 |:----------|:--------------------|-------------:|-------------:|
-|Albert     |Kim                  |             0|             0|
+|Albert     |Kim                  |             1|             0|
 |Amrita     |Acharya              |             0|             0|
 |Sariah     |Akhdar               |             0|             0|
 |Jane       |Andrews              |             0|             0|
