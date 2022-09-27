@@ -32,7 +32,7 @@ Beat on this repo like it's a dusty carpet
 |Lika       |Mikhelashvili        |             1|             0|
 |Parunjodhi |Munisamy             |             1|             0|
 |Michiru    |Nozawa               |             0|             0|
-|Lessly     |Ortiz                |             0|             0|
+|Lessly     |Ortiz                |             1|             0|
 |Betty      |Pu                   |             0|             0|
 |Chi        |Qiu                  |             1|             0|
 |Grace      |Rade                 |             1|             0|
