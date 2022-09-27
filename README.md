@@ -22,7 +22,7 @@ Beat on this repo like it's a dusty carpet
 |Lillian    |Fok                  |             0|             0|
 |Emma       |Gardecki             |             0|             0|
 |Naomi      |Giancola             |             1|             0|
-|Vibha      |Gogu                 |             0|             0|
+|Vibha      |Gogu                 |             1|             0|
 |Nina       |Hernandez            |             1|             0|
 |Mars       |Ikeda                |             1|             0|
 |Audrey     |Kim                  |             0|             0|
