@@ -29,7 +29,7 @@ Beat on this repo like it's a dusty carpet
 |Beata      |Knecht               |             1|             0|
 |Naomi      |Liftman              |             1|             0|
 |Brianna    |Mateo                |             0|             0|
-|Lika       |Mikhelashvili        |             0|             0|
+|Lika       |Mikhelashvili        |             1|             0|
 |Parunjodhi |Munisamy             |             0|             0|
 |Michiru    |Nozawa               |             0|             0|
 |Lessly     |Ortiz                |             0|             0|
