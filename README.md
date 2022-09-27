@@ -18,7 +18,7 @@ Beat on this repo like it's a dusty carpet
 |Meaghan    |Brennan              |             0|             0|
 |Mack       |Case                 |             0|             0|
 |Lily       |Diao                 |             0|             0|
-|Margot     |Draillard-Vandenberg |             0|             0|
+|Margot     |Draillard-Vandenberg |             1|             0|
 |Lillian    |Fok                  |             0|             0|
 |Emma       |Gardecki             |             0|             0|
 |Naomi      |Giancola             |             0|             0|
