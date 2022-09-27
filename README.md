@@ -30,7 +30,7 @@ Beat on this repo like it's a dusty carpet
 |Brianna    |Mateo                |             0|             0|
 |Lika       |Mikhelashvili        |             1|             0|
 |Parunjodhi |Munisamy             |             1|             0|
-|Michiru    |Nozawa               |             0|             0|
+|Michiru    |Nozawa               |             1|             0|
 |Lessly     |Ortiz                |             0|             0|
 |Betty      |Pu                   |             0|             0|
 |Chi        |Qiu                  |             1|             0|
