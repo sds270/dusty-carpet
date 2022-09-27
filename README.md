@@ -24,7 +24,7 @@ Beat on this repo like it's a dusty carpet
 |Naomi      |Giancola             |             1|             0|
 |Vibha      |Gogu                 |             0|             0|
 |Nina       |Hernandez            |             1|             0|
-|Mars       |Ikeda                |             0|             0|
+|Mars       |Ikeda                |             1|             0|
 |Audrey     |Kim                  |             0|             0|
 |Beata      |Knecht               |             1|             0|
 |Naomi      |Liftman              |             1|             0|
