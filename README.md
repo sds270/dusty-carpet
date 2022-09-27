@@ -34,7 +34,7 @@ Beat on this repo like it's a dusty carpet
 |Michiru    |Nozawa               |             0|             0|
 |Lessly     |Ortiz                |             0|             0|
 |Betty      |Pu                   |             0|             0|
-|Chi        |Qiu                  |             0|             0|
+|Chi        |Qiu                  |             1|             0|
 |Grace      |Rade                 |             0|             0|
 |Michel     |Ruiz-Fuentes         |             0|             0|
 |Esa        |Schenck              |             0|             0|
