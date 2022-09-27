@@ -15,7 +15,7 @@ Beat on this repo like it's a dusty carpet
 |Charavee   |Basnet Chettri       |             0|             0|
 |Margaret   |Bassney              |             0|             0|
 |Adriana    |Beltran Andrade      |             0|             0|
-|Meaghan    |Brennan              |             0|             0|
+|Meaghan    |Brennan              |             1|             0|
 |Mack       |Case                 |             0|             0|
 |Lily       |Diao                 |             0|             0|
 |Margot     |Draillard-Vandenberg |             1|             0|
