@@ -26,7 +26,7 @@ Beat on this repo like it's a dusty carpet
 |Nina       |Hernandez            |             0|             0|
 |Mars       |Ikeda                |             0|             0|
 |Audrey     |Kim                  |             0|             0|
-|Beata      |Knecht               |             0|             0|
+|Beata      |Knecht               |             1|             0|
 |Naomi      |Liftman              |             0|             0|
 |Brianna    |Mateo                |             0|             0|
 |Lika       |Mikhelashvili        |             0|             0|
