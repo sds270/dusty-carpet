@@ -15,11 +15,11 @@ Beat on this repo like it's a dusty carpet
 |Charavee   |Basnet Chettri       |             0|             0|
 |Margaret   |Bassney              |             1|             0|
 |Adriana    |Beltran Andrade      |             0|             0|
-|Meaghan    |Brennan              |             1|             0|
+|Meaghan    |Brennan              |             0|             0|
 |Mack       |Case                 |             0|             0|
 |Lily       |Diao                 |             0|             0|
 |Margot     |Draillard-Vandenberg |             1|             0|
-|Lillian    |Fok                  |             1|             0|
+|Lillian    |Fok                  |             0|             0|
 |Emma       |Gardecki             |             0|             0|
 |Naomi      |Giancola             |             1|             0|
 |Vibha      |Gogu                 |             1|             0|
@@ -32,15 +32,15 @@ Beat on this repo like it's a dusty carpet
 |Lika       |Mikhelashvili        |             1|             0|
 |Parunjodhi |Munisamy             |             1|             0|
 |Michiru    |Nozawa               |             0|             0|
-|Lessly     |Ortiz                |             1|             0|
+|Lessly     |Ortiz                |             0|             0|
 |Betty      |Pu                   |             0|             0|
 |Chi        |Qiu                  |             1|             0|
 |Grace      |Rade                 |             1|             0|
 |Michel     |Ruiz-Fuentes         |             0|             0|
 |Esa        |Schenck              |             0|             0|
 |Christina  |Sherpa               |             1|             0|
-|Julia      |Ting                 |             1|             0|
+|Julia      |Ting                 |             0|             0|
 |My My      |Tran                 |             0|             0|
-|Thu        |Tran                 |             0|             0|
-|Maeve      |Tyler-Penny          |             1|             0|
+|Thu        |Tran                 |             1|             0|
+|Maeve      |Tyler-Penny          |             0|             0|
 |Ru         |Wu                   |             1|             0|
