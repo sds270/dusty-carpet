@@ -8,8 +8,8 @@ Beat on this repo like it's a dusty carpet
 |Given name |Last name            | flip_switch_1| flip_switch_2|
 |:----------|:--------------------|-------------:|-------------:|
 |Albert     |Kim                  |             1|             0|
+|Sariah     |Akhdar               |             1|             0|
 |Amrita     |Acharya              |             1|             0|
-|Sariah     |Akhdar               |             0|             0|
 |Jane       |Andrews              |             0|             0|
 |Zoe        |Baker                |             1|             0|
 |Charavee   |Basnet Chettri       |             0|             0|
@@ -30,7 +30,7 @@ Beat on this repo like it's a dusty carpet
 |Naomi      |Liftman              |             1|             0|
 |Brianna    |Mateo                |             0|             0|
 |Lika       |Mikhelashvili        |             1|             0|
-|Parunjodhi |Munisamy             |             0|             0|
+|Parunjodhi |Munisamy             |             1|             0|
 |Michiru    |Nozawa               |             0|             0|
 |Lessly     |Ortiz                |             0|             0|
 |Betty      |Pu                   |             0|             0|
@@ -43,4 +43,4 @@ Beat on this repo like it's a dusty carpet
 |My My      |Tran                 |             0|             0|
 |Thu        |Tran                 |             0|             0|
 |Maeve      |Tyler-Penny          |             0|             0|
-|Ru         |Wu                   |             0|             0|
+|Ru         |Wu                   |             1|             0|
