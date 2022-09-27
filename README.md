@@ -43,4 +43,4 @@ Beat on this repo like it's a dusty carpet
 |My My      |Tran                 |             0|             0|
 |Thu        |Tran                 |             0|             0|
 |Maeve      |Tyler-Penny          |             0|             0|
-|Ru         |Wu                   |             0|             0|
+|Ru         |Wu                   |             1|             0|
