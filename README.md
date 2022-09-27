@@ -19,7 +19,7 @@ Beat on this repo like it's a dusty carpet
 |Mack       |Case                 |             0|             0|
 |Lily       |Diao                 |             0|             0|
 |Margot     |Draillard-Vandenberg |             1|             0|
-|Lillian    |Fok                  |             0|             0|
+|Lillian    |Fok                  |             1|             0|
 |Emma       |Gardecki             |             0|             0|
 |Naomi      |Giancola             |             1|             0|
 |Vibha      |Gogu                 |             1|             0|
