@@ -21,7 +21,7 @@ Beat on this repo like it's a dusty carpet
 |Margot     |Draillard-Vandenberg |             1|             0|
 |Lillian    |Fok                  |             0|             0|
 |Emma       |Gardecki             |             0|             0|
-|Naomi      |Giancola             |             0|             0|
+|Naomi      |Giancola             |             1|             0|
 |Vibha      |Gogu                 |             0|             0|
 |Nina       |Hernandez            |             0|             0|
 |Mars       |Ikeda                |             0|             0|
