@@ -39,7 +39,7 @@ Beat on this repo like it's a dusty carpet
 |Michel     |Ruiz-Fuentes         |             0|             0|
 |Esa        |Schenck              |             0|             0|
 |Christina  |Sherpa               |             1|             0|
-|Julia      |Ting                 |             0|             0|
+|Julia      |Ting                 |             1|             0|
 |My My      |Tran                 |             0|             0|
 |Thu        |Tran                 |             0|             0|
 |Maeve      |Tyler-Penny          |             1|             0|
