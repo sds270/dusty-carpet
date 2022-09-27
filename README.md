@@ -23,7 +23,7 @@ Beat on this repo like it's a dusty carpet
 |Emma       |Gardecki             |             0|             0|
 |Naomi      |Giancola             |             0|             0|
 |Vibha      |Gogu                 |             0|             0|
-|Nina       |Hernandez            |             0|             0|
+|Nina       |Hernandez            |             1|             0|
 |Mars       |Ikeda                |             0|             0|
 |Audrey     |Kim                  |             0|             0|
 |Beata      |Knecht               |             0|             0|
