@@ -11,7 +11,7 @@ Beat on this repo like it's a dusty carpet
 |Amrita     |Acharya              |             0|             0|
 |Sariah     |Akhdar               |             0|             0|
 |Jane       |Andrews              |             0|             0|
-|Zoe        |Baker                |             0|             0|
+|Zoe        |Baker                |             1|             0|
 |Charavee   |Basnet Chettri       |             0|             0|
 |Margaret   |Bassney              |             0|             0|
 |Adriana    |Beltran Andrade      |             0|             0|
