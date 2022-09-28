@@ -32,7 +32,7 @@ Beat on this repo like it's a dusty carpet
 |Parunjodhi |Munisamy             |             1|             0|
 |Michiru    |Nozawa               |             1|             0|
 |Lessly     |Ortiz                |             0|             0|
-|Betty      |Pu                   |             0|             0|
+|Betty      |Pu                   |             1|             0|
 |Chi        |Qiu                  |             1|             0|
 |Grace      |Rade                 |             1|             0|
 |Michel     |Ruiz-Fuentes         |             0|             0|
