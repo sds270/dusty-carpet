@@ -10,7 +10,7 @@ Beat on this repo like it's a dusty carpet
 |Albert     |Kim                  |             1|             0|
 |Sariah     |Akhdar               |             1|             0|
 |Amrita     |Acharya              |             1|             0|
-|Jane       |Andrews              |             0|             0|
+|Jane       |Andrews              |             1|             0|
 |Zoe        |Baker                |             1|             0|
 |Charavee   |Basnet Chettri       |             1|             0|
 |Margaret   |Bassney              |             1|             0|
