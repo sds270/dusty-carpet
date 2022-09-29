@@ -10,12 +10,11 @@ Beat on this repo like it's a dusty carpet
 |Albert     |Kim                  |             1|             0|
 |Sariah     |Akhdar               |             1|             0|
 |Amrita     |Acharya              |             1|             0|
-|Jane       |Andrews              |             0|             0|
+|Jane       |Andrews              |             1|             0|
 |Zoe        |Baker                |             1|             0|
-|Charavee   |Basnet Chettri       |             0|             0|
+|Charavee   |Basnet Chettri       |             1|             0|
 |Margaret   |Bassney              |             1|             0|
-|Adriana    |Beltran Andrade      |             0|             0|
-|Meaghan    |Brennan              |             0|             0|
+|Adriana    |Beltran Andrade      |             1|             0|
 |Mack       |Case                 |             1|             0|
 |Lily       |Diao                 |             0|             0|
 |Margot     |Draillard-Vandenberg |             1|             0|
@@ -31,9 +30,9 @@ Beat on this repo like it's a dusty carpet
 |Brianna    |Mateo                |             0|             0|
 |Lika       |Mikhelashvili        |             1|             0|
 |Parunjodhi |Munisamy             |             1|             0|
-|Michiru    |Nozawa               |             0|             0|
+|Michiru    |Nozawa               |             1|             0|
 |Lessly     |Ortiz                |             0|             0|
-|Betty      |Pu                   |             0|             0|
+|Betty      |Pu                   |             1|             0|
 |Chi        |Qiu                  |             1|             0|
 |Grace      |Rade                 |             1|             0|
 |Michel     |Ruiz-Fuentes         |             0|             0|
