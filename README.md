@@ -35,7 +35,7 @@ Beat on this repo like it's a dusty carpet
 |Betty      |Pu                   |             1|             0|
 |Chi        |Qiu                  |             1|             0|
 |Grace      |Rade                 |             1|             0|
-|Michel     |Ruiz-Fuentes         |             0|             0|
+|Michel     |Ruiz-Fuentes         |             1|             0|
 |Esa        |Schenck              |             0|             0|
 |Christina  |Sherpa               |             1|             0|
 |Julia      |Ting                 |             0|             0|
