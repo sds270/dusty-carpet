@@ -16,7 +16,7 @@ Beat on this repo like it's a dusty carpet
 |Margaret   |Bassney              |             1|             0|
 |Adriana    |Beltran Andrade      |             1|             0|
 |Mack       |Case                 |             1|             0|
-|Lily       |Diao                 |             0|             0|
+|Lily       |Diao                 |             1|             0|
 |Margot     |Draillard-Vandenberg |             1|             0|
 |Lillian    |Fok                  |             0|             0|
 |Emma       |Gardecki             |             1|             0|
